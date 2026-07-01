@@ -18,6 +18,9 @@ Users are expected to download and configure their own models, embedding models,
 
 Built a local Retrieval-Augmented Generation (RAG) assistant using Dify and Ollama to support PITA insurance study. Integrated Qwen3 LLM and embedding models, implemented document chunking, vector retrieval, citation-based responses, and knowledge-base driven question answering over training materials. Using Chinese dataset is to test how the performance of the Qwen embedding model.
 
+<img width="800" height="337" alt="Desktop2026 07 01-15 48 40 01-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/01af9b5f-f70e-4f74-a928-dd439c2c5148" />
+
+
 **Objective**
 
 To understand how a local RAG system works by using Dify.
